@@ -20,7 +20,7 @@
     <img width="144" height="144" src="assets/58482ee4cef1014c0b5e4a75.png" alt="express-js"/>
   </a>
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img width="144" height="144" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   </a>
   
 

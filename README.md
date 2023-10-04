@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/fluency/144/000000/javascript.png"/>
   </a>
   <a href="#">
-    <img width="144" height="144" src="assets/58482ee4cef1014c0b5e4a75.png" alt="express-js"/>
+    <img width="144" height="144" src="https://img.icons8.com/color/144/mysql-logo.png" alt="mysql-logo"/>
   </a>
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>

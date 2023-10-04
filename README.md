@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Module
 
-[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://www.npmjs.com/package/sequelize))]
+[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://www.npmjs.com/package/sequelize))
 
 Sequelize is an easy-to-use and promise-based Node.js ORM tool for Postgres, MySQL, MariaDB, SQLite, DB2, Microsoft SQL Server, and Snowflake. It features solid transaction support, relations, eager and lazy loading, read replication and more.
 

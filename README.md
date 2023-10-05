@@ -19,18 +19,17 @@
   <a href="#">
     <img width="144" height="144" src="assets/58482ee4cef1014c0b5e4a75.png" alt="express-js"/>
   </a>
-  
-  <a href="#">
-    <img width="144" height="144" src="https://img.icons8.com/color/144/mysql-logo.png" alt="mysql-logo"/>
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img width="144" height="144" src="assets/34654756765756.png" alt="express-js"/>
   </a>
   
 
 
 
-  <h3 align="center">Sequelize</h3>
+  <h3 align="center">Api Node React</h3>
 
   <p align="center">
-    Simple javascript project with Node JS / Sequelize 
+    Simple javascript project with Node js and React js
     <br />
     <!--
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
@@ -47,7 +46,6 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<!--
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -72,24 +70,30 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
--->
+
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Module
+## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://www.npmjs.com/package/sequelize))
+[![Product Name Screen Shot][product-screenshot]](https://example.com)]
 
-Sequelize is an easy-to-use and promise-based Node.js ORM tool for Postgres, MySQL, MariaDB, SQLite, DB2, Microsoft SQL Server, and Snowflake. It features solid transaction support, relations, eager and lazy loading, read replication and more.
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
+
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-### 💻 Getting Started
+### Built With
 
-Ready to start using Sequelize? Head to sequelize.org to begin!
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -105,17 +109,16 @@ Ready to start using Sequelize? Head to sequelize.org to begin!
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Ready to start using Sequelize? Head to sequelize.org to begin!
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-<p align="right">(<a href="[#top](https://sequelize.org/docs/v6/getting-started/)"> sequelize.org</a>)</p>
+### Prerequisites
 
-## requirement
-
-* Latest version of [NPM](https://www.npmjs.com/package/download)⚡⚡
-* Latest version of [node.js](https://nodejs.org/es) 🍃🍃🍃
-* Installing projects for [React Native with Expo](https://expo.dev/client)🔼
-
-These requirements are important for the operation of the app, since it is vital that the Node is the most up-to-date version for best performance and the NPM to implement the independence correctly.
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
 ### Installation
 
@@ -124,17 +127,67 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Freddx-web/NodeJS-sequelize-express-backend.git
+   git clone https://github.com/your_username_/Project-Name.git
    ```
 3. Install NPM packages
    ```sh
-   npm i sequelize
+   npm install
    ```
-4. Start app `config.js`
+4. Enter your API in `config.js`
    ```js
-   npm start 
+   const API_KEY = 'ENTER YOUR API';
    ```
-   
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 <!-- LICENSE -->
 ## License
 
@@ -152,6 +205,25 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

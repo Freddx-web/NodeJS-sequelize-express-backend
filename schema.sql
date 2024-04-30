@@ -1,3 +1,4 @@
+create database data_base_1;
 
 create table users(
     id integer not null auto_increment,

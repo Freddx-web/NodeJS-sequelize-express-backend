@@ -23,10 +23,10 @@
     <img width="144" height="144" src="assets/34654756765756.png" alt="express-js"/>
   </a>
   
-  <h3 align="center">Api Node React</h3>
+  <h3 align="center">Api Node sequelize SQL</h3>
 
   <p align="center">
-    Simple javascript project with Node js and React js
+    Simple javascript project with Node sequelizeSQL
     <br />
     <!--
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>

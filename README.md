@@ -75,19 +75,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)]
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more. Featuring solid transaction support, relations, eager and lazy loading, read replication and more.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+<!--
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -99,15 +92,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url] 
 * [![JQuery][JQuery.com]][JQuery-url] 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To start developing our project with Node.js , we will first open our work IDE, in my case, I will use Visual Studio Code.
+
+Once we have entered our IDE and created a workspace, we are going to run some commands with NPM.
 
 ### Prerequisites
 
@@ -119,20 +113,19 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_We are now ready to start with our project, and the first thing we are going to do is build a package.json where we will have everything about our project.._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Freddx-web/NodeJS-sequelize-express-backend.git
    ```
-3. Install NPM packages
+2. Install NPM packages  `package.json`
    ```sh
-   npm install
+   npm install express sequelize dotenv morgan mysql2 
    ```
-4. Enter your API in `config.js`
+3. Install development NPM packages `package.json`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   npm install @babel/cli @babel/core @babel/node @babel/preset-env nodemon -D
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -140,17 +133,28 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Run program
+It's one small step for man , one giant leap for mankind.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+# Run program complete
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+ ```sh
+   npm start
+   ```
+or Development mode:
+
+```sh
+   npm run dev
+   ```
+
+_For more examples, please refer to the [Documentation](https://sequelize.org/))](https://sequelize.org/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
+<!--
 ## Roadmap
 
 - [x] Add Changelog
@@ -163,11 +167,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
 <!-- CONTRIBUTING -->
+<!--
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -181,31 +186,36 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License Copyright © 2025 Sequelize Contributors.. See `LICENSE.txt` Built with Docusaurus and powered by Netlify. for more information.  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+[https://github.com/your_username/repo_name](https://sequelize.org/)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p> 
 
 
 
 <!-- CONTACT -->
+<!--
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
 <!-- ACKNOWLEDGMENTS -->
+<!--
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
@@ -219,7 +229,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
